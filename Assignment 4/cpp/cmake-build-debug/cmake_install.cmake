@@ -1,4 +1,4 @@
-# Install script for directory: /home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 4/cpp files
+# Install script for directory: /home/devidduma/MEGA/Epoka University/Second Semester SS20/C Programming/Assignment 4/cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
